@@ -1,0 +1,3 @@
+﻿  ATM-SYSTEM.cpp
+C:\Users\LENOVO\source\repos\ATM-SYSTEM\ATM-SYSTEM\ATM-SYSTEM.cpp(90,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  ATM-SYSTEM.vcxproj -> C:\Users\LENOVO\source\repos\ATM-SYSTEM\x64\Debug\ATM-SYSTEM.exe
